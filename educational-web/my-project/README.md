@@ -2,7 +2,7 @@
 
 💙 Join the channel to see more videos like this. [LearnWithDaniel](https://www.youtube.com/@learnwithdanial417)
 
-![preview img](/educational.jpg)
+![preview img](/educational-web/my-project/educational.jpg)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
